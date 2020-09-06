@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+  background-color: white;
+}
+.header img {
+  height: 60px;
+  margin: 5px 10px 10px 10px;
+}
+.header a {
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: aliceblue;
+}
+.header a:hover {
+  padding: 5px 10px;
+  background: linear-gradient(to right, #386108, #8bc34a 50%, #8bc34a 50%);
+  text-decoration: none;
+  border: 2px solid #92d841;
+  border-radius: 5px;
+}
